@@ -1,4 +1,4 @@
-# Docker image that runs the Blynk server v0.27.1
+# Docker image that runs the Blynk server v0.33.2 (Java8 Version)
 
 # Designed to run on Docker GUI for Synology Diskstation.
 
